@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:backendVapor.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Dependencies">
+      <FileRef
+         location = "group:.build/tuist-derived/async-http-client/async-http-client.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/async-kit/async-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/console-kit/console-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/multipart-kit/multipart-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/mysql-kit/mysql-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/mysql-nio/mysql-nio.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/routing-kit/routing-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/sql-kit/sql-kit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-algorithms/swift-algorithms.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-atomics/swift-atomics.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-collections/swift-collections.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-crypto/swift-crypto.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-log/swift-log.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-metrics/swift-metrics.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-nio-extras/swift-nio-extras.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-nio-http2/swift-nio-http2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-nio-ssl/swift-nio-ssl.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-nio-transport-services/swift-nio-transport-services.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-nio/swift-nio.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-numerics/swift-numerics.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/swift-system/swift-system.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/vapor/vapor.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:.build/tuist-derived/websocket-kit/websocket-kit.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
